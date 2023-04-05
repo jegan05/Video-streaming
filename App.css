@@ -1,0 +1,52 @@
+#pro
+{
+  width: 140px;
+  height: 140px;
+  transform: translate(390px,0px);
+}
+#pro1
+{
+  width: 500px;
+  height: 300px;
+  transform: translate(700px,200px);
+}
+#lo
+{
+  color: aliceblue;
+text-align: center;
+margin-left: -600px;
+}
+#ma
+{
+  color: aliceblue;
+text-align: center;
+margin-left: -840px;
+}
+#pass
+{
+  color: aliceblue;
+text-align: center;
+margin-left: -805px;
+}
+#mail
+{
+transform: translate(450px,-40px);
+}
+#passs
+{
+position: absolute;
+transform: translate(450px,-40px);
+}
+body{
+  background-color:black;
+}
+#sub
+{
+  position: absolute;
+  margin-left: 400px;
+}
+#iop
+{
+  color: aliceblue;
+  text-align: center;
+}
